@@ -17,10 +17,10 @@ Antes de começar, você precisará instalar o Node.js no seu sistema Windows. S
 1. **Instalar o Node.js:** Siga as instruções no vídeo tutorial.
 2. **Clonar este repositório:**
    ```bash
-   $ git clone https://github.com/seuusuario/bruter-puzzle-bitcoin-wallet.git
+   $ git clone https://github.com/mandrakevenom1233/btc-random-cpu.git
    ```
 3. **Entrar na pasta do projeto:**
-    ```$ cd bruter-puzzle-bitcoin-wallet```
+    ```$ cd btc-random-cpu```
 4. **Instalar as dependências:** 
     ```$ npm install```
 5. **Executar o script principal:**
