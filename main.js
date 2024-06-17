@@ -2,7 +2,7 @@ import ranges from './ranges.js';
 import { Worker, isMainThread } from 'worker_threads';
 import readline from 'readline';
 import chalk from 'chalk';
-import { generateBTCAddress } from './bitcoin.js';
+import { generateBTCAddress } from './bitcoin-find.js';
 
 const rl = readline.createInterface({
     input: process.stdin,
